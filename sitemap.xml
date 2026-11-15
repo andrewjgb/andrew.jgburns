@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- sitemap-generator-url="http://www.auditmypc.com/free-sitemap-generator.asp" -->
+<!-- This sitemap was created using the free tool found here: http://www.auditmypc.com/free-sitemap-generator.asp -->
+<!-- Audit My PC also offers free security tools to help keep you safe during internet travels -->
+<urlset 
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+		http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+<url>
+    <loc>https://andrew.jgburns.net</loc>
+    <lastmod>2014-08-24T16:42:48+01:00</lastmod>
+</url>
+<url>
+    <loc>https://andrew.jgburns.net/20140806-post-0001.html</loc>
+    <lastmod>2014-08-25T13:08:01+01:00</lastmod>
+</url>
+<url>
+    <loc>https://andrew.jgburns.net/20140806-post-0002.html</loc>
+    <lastmod>2014-08-24T17:16:22+01:00</lastmod>
+</url>
+<url>
+    <loc>https://andrew.jgburns.net/20140816-post-0003.html</loc>
+    <lastmod>2014-08-24T18:44:40+01:00</lastmod>
+</url>
+<url>
+    <loc>https://andrew.jgburns.net/20140816-post-0004.html</loc>
+    <lastmod>2014-08-25T13:30:30+01:00</lastmod>
+</url>
+<url>
+    <loc>https://andrew.jgburns.net/index.html</loc>
+    <lastmod>2014-08-24T16:42:48+01:00</lastmod>
+</url>
+</urlset>
